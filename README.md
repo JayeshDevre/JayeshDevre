@@ -54,14 +54,6 @@ TensorFlow | PyTorch | Scikit-learn | Hugging Face | Gemini API | AWS Bedrock
 
 ---
 
-### 📈 **GitHub Stats**
-
-![Jayesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayeshdevre&show_icons=true&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=jayeshdevre)
-
----
-
 ### 🧰 **What I've Learned So Far**
 
 > "Reliability and ethics in AI systems aren't optional — they're design features."
