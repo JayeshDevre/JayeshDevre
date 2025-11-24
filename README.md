@@ -1,22 +1,23 @@
-# 👋 Hi, I’m **Jayesh Devre**
+# 👋 Hi, I'm **Jayesh Devre**
 
-🎓 **Graduate Student (M.S. in Information Technology – Artificial Intelligence)**  
-📍 Arizona State University | 🧠 Building intelligent, scalable systems in the cloud  
-
----
-
-### 🚀 **About Me**
-I’m a **software engineer and AI enthusiast** passionate about designing scalable, reliable systems that bridge **cloud engineering and applied machine learning**.  
-I love building products that make an impact — from **real-time AI assistants** to **data pipelines that move millions of records** efficiently.
-
-💡 My journey so far has taken me from  
-➡️ building distributed microservices at **Wipro**,  
-➡️ to engineering large-scale reliability frameworks at **Amazon**,  
-➡️ to developing cloud-native AI applications that combine **LLMs, real-time streaming, and serverless design**.
+🚀 **Software Engineer & AI Enthusiast** | ☁️ **Cloud & DevOps Engineer** | 🧠 **ML/AI Researcher**  
+🎓 **Master's in Information Technology – Artificial Intelligence @ ASU** | 📍 **Based in Tempe, AZ**
 
 ---
 
-### ⚙️ **What I’m Working On**
+### 👨‍💻 **About Me**
+
+💼 **Former Software Engineer @ Amazon** – Engineering large-scale reliability frameworks  
+💼 **Former Software Engineer @ Wipro** – Building distributed microservices  
+🧑‍🎓 **Graduate Student @ Arizona State University** – Specializing in AI & Cloud Systems  
+⚙️ **Actively building** cloud-native AI applications combining LLMs, real-time streaming, and serverless design  
+🛠️ **Passionate about** designing scalable, reliable systems that bridge cloud engineering and applied machine learning  
+🧭 **Love building products** that make an impact — from real-time AI assistants to data pipelines that move millions of records efficiently
+
+---
+
+### ⚙️ **What I'm Working On**
+
 - 🌥️ Building **serverless data pipelines** with AWS Kinesis, Glue, and Step Functions  
 - 🤖 Exploring **LLM safety and AI-driven automation** using Gemini and AWS Bedrock  
 - 🧠 Researching **AI ethics and reliability** as part of my ASU coursework  
@@ -25,45 +26,68 @@ I love building products that make an impact — from **real-time AI assistants*
 ---
 
 ### 🧩 **Projects**
-🔹 **[TherapyAI](#)** – Real-time counseling simulator using Gemini, Node.js, and WebSockets  
-> Built a safe, scalable AI therapy simulator (~300 ms latency) and automated persona creation pipeline on Google Cloud.  
 
-🔹 **[AI-Powered Knowledge Base](#)** – Retrieval-Augmented Generation (RAG) system using AWS & OpenAI  
-> Implemented a Go + React app integrating Bedrock embeddings for real-time semantic search and summarization.  
+🔹 **[TherapyAI SunHacks](https://github.com/JayeshDevre/TherapyAISunHacks)** – Therapy chat app using Google Cloud, Ollama LLM, Next.js, and WebSockets  
+> Built a privacy-focused therapy-style chat application with crisis detection, conversation memory, and browser-based text-to-speech on Google Cloud. Winner of Sunhacks Hackathon.
 
-🔹 **[Real-Time ETL Pipeline](#)** – Serverless AWS data platform for weather analytics  
-> Streamed 2,800+ records/min using Kinesis → Glue → S3 (Parquet) with Athena queries and SageMaker anomaly detection.  
+🔹 **[Intelligent Heart Attack Prediction System](https://github.com/JayeshDevre/Intelligent-heart-attack-prediction-system)** – End-to-end ML pipeline for health risk prediction using AWS EMR, SageMaker, Lambda, and Athena  
+> Built a scalable healthcare ML system with XGBoost model training on SageMaker, real-time predictions via Lambda, automated SNS alerts for high-risk patients, and SQL analytics with Athena.
 
 ---
 
-### 🛠️ **Tech Stack**
-**Languages:** Java, Python, JavaScript, Go, C/C++  
-**Frameworks:** Spring Boot, Node.js, React, Next.js  
-**Cloud & Data:** AWS (Lambda, Glue, SageMaker), Azure, GCP, Kafka, Spark  
-**ML & AI:** TensorFlow, PyTorch, scikit-learn, Hugging Face, Gemini API  
-**DevOps:** Docker, Kubernetes, GitHub Actions, CI/CD  
+### 🔧 **Tech Stack & Tools**
+
+**Languages:**
+Java | Python | JavaScript | Go | C/C++
+
+**Frontend:**
+React | Next.js | HTML5/CSS3
+
+**Backend & DB:**
+Spring Boot | Node.js | PostgreSQL | MongoDB
+
+**DevOps & Cloud:**
+Docker | Kubernetes | GitHub Actions | CI/CD | AWS (Lambda, Glue, SageMaker, Kinesis, S3, Athena) | Azure | GCP | Kafka | Spark
+
+**AI/ML:**
+TensorFlow | PyTorch | Scikit-learn | Hugging Face | Gemini API | AWS Bedrock
 
 ---
 
-### 🧰 **What I’ve Learned So Far**
-> “Reliability and ethics in AI systems aren’t optional — they’re design features.”
+### 📈 **GitHub Stats**
 
-I’m passionate about **building systems that scale**, but I’m equally focused on making sure they’re **secure, responsible, and human-centered**.
+![Jayesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayeshdevre&show_icons=true&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=jayeshdevre)
+
+---
+
+### 🧰 **What I've Learned So Far**
+
+> "Reliability and ethics in AI systems aren't optional — they're design features."
+
+I'm passionate about **building systems that scale**, but I'm equally focused on making sure they're **secure, responsible, and human-centered**.
 
 ---
 
 ### 🌱 **Currently Exploring**
+
 - Cloud-native **LLM deployment & monitoring**  
 - **DataOps for AI pipelines**  
-- Open-source collaboration & mentorship  
+- Open-source collaboration & mentorship
 
 ---
 
-### 📢 **Let’s Connect**
-- 💼 [LinkedIn](https://linkedin.com/in/jayesh-devre)  
-- 🤖 [Portfolio / Resume (PDF)](./Jayesh%20Devre-Resume.pdf)  
-- ✉️ jdevre@asu.edu  
+### 📫 **Let's Connect**
+
+🔗 [LinkedIn](https://linkedin.com/in/jayesh-devre)  
+🔗 [LeetCode](https://leetcode.com/u/Jayesh_Devre/)  
+✉️ jdevre@asu.edu
 
 ---
 
-⭐ **“Keep learning, keep building — excellence is a habit, not a milestone.”**
+⭐ **"Keep learning, keep building — excellence is a habit, not a milestone."**
+
+**Turning ideas into scalable tech. Let's build something meaningful together.**
+
+⭐ **Star your favorite repos and follow for project updates!**
