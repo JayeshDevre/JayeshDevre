@@ -7,7 +7,7 @@
 
 ### 👨‍💻 **About Me**
 
-💼 **Former Software Engineer @ Amazon** – Engineering large-scale reliability frameworks  
+💼 **Former Software Development Engineer Intern @ Amazon** – Engineering large-scale reliability frameworks  
 💼 **Former Software Engineer @ Wipro** – Building distributed microservices  
 🧑‍🎓 **Graduate Student @ Arizona State University** – Specializing in AI & Cloud Systems  
 ⚙️ **Actively building** cloud-native AI applications combining LLMs, real-time streaming, and serverless design  
