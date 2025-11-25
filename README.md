@@ -27,7 +27,7 @@
 
 ### 🧩 **Projects**
 
-🔹 **[TherapyAI SunHacks](https://github.com/JayeshDevre/TherapyAISunHacks)** – Therapy chat app using Google Cloud, Ollama LLM, Next.js, and WebSockets  
+🔹 **[TherapyAI SunHacks](https://github.com/JayeshDevre/TherapyAISunHackss)** – Therapy chat app using Google Cloud, Ollama LLM, Next.js, and WebSockets  
 > Built a privacy-focused therapy-style chat application with crisis detection, conversation memory, and browser-based text-to-speech on Google Cloud. Winner of Sunhacks Hackathon.
 
 🔹 **[Intelligent Heart Attack Prediction System](https://github.com/JayeshDevre/Intelligent-heart-attack-prediction-system)** – End-to-end ML pipeline for health risk prediction using AWS EMR, SageMaker, Lambda, and Athena  
