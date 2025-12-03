@@ -27,7 +27,7 @@
 
 ### 🧩 **Projects**
 
-🔹 **[TherapyAI SunHacks](https://github.com/JayeshDevre/TherapyAISunHackss)** – Therapy chat app using Google Cloud, Ollama LLM, Next.js, and WebSockets  
+🔹 **[TherapyAI SunHacks](https://github.com/JayeshDevre/TherapyAISunHackss)** – Therapy chat app using Google Cloud, Gemini, Ollama LLM, Next.js, and WebSockets  
 > Built a privacy-focused therapy-style chat application with crisis detection, conversation memory, and browser-based text-to-speech on Google Cloud. Winner of Sunhacks Hackathon.
 
 🔹 **[Intelligent Heart Attack Prediction System](https://github.com/JayeshDevre/Intelligent-heart-attack-prediction-system)** – End-to-end ML pipeline for health risk prediction using AWS EMR, SageMaker, Lambda, and Athena  
@@ -56,7 +56,7 @@ TensorFlow | PyTorch | Scikit-learn | Hugging Face | Gemini API | AWS Bedrock
 
 ### 🧰 **What I've Learned So Far**
 
-> "Reliability and ethics in AI systems aren't optional — they're design features."
+> "Reliability and ethics in AI systems aren't optional - they're design features."
 
 I'm passionate about **building systems that scale**, but I'm equally focused on making sure they're **secure, responsible, and human-centered**.
 
